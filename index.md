@@ -1,12 +1,11 @@
 ---
-title: Welcome to my blog!
-# awesome heading
+title: welcome
 ---
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:#800000;">
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h3>"i write because i don't know what i think until i read what i say.”</h3>
+<p>.</p>
 
 </body>
 </html>
