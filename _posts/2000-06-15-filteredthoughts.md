@@ -1,5 +1,5 @@
 ---
-title: "why write?" (wip)
+title: "why write? WIP"
 date: 2026-06-15
 ---
 <h3>where it began</h3>
